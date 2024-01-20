@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Jiankun's GitHub stats](https://github-readme-stats-eight-gamma-19.vercel.app/api?username=JiankunW)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-eight-gamma-19.vercel.app/api/top-langs/?username=JiankunW&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Jiankun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JiankunW&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Jiankun's GitHub stats](https://github-readme-stats-eight-gamma-19.vercel.app/api?username=JiankunW)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-eight-gamma-19.vercel.app/api/top-langs/?username=JiankunW&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![Jiankun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JiankunW&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
